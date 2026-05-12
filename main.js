@@ -1,4 +1,4 @@
-const SERVER = "https://milexinteam.github.io/Denali-package-repo/repo.db.tar.gz";
+const SERVER = "https://milexinteam.github.io/Denali-package-repo/denali.db.tar.gz";
 
 async function loadRepo() {
   try {
